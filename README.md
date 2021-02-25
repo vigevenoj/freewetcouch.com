@@ -1,7 +1,7 @@
 # FREE WET COUCH DOT COM
 
 ## What is this?
-This is the code to run [freewetcouch.com](freewetcouch.com)
+This is the code to run [freewetcouch.com](https://freewetcouch.com)
 
 ## This is stupid
 Yes
