@@ -1,0 +1,10 @@
+html {
+  min-height: 100%;
+  margin: 0;
+}
+body {
+  min-height: 100%;
+  background-image: url("{{ couch_file }}");
+  background-size: contain;
+  background-repeat: no-repeat;
+}
