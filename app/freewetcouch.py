@@ -16,7 +16,7 @@ def css():
 
 
 def couch():
-    path = './app/static'
+    path = './static'
     random_couch = random.choice([x for x in os.listdir(path)
                                   if os.path.isfile(os.path.join(path, x))])
     return url_for('static', filename=random_couch)
